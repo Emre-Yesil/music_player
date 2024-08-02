@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1722616246 source:c:\c++code__block\projects\mp3_player\mp3_player.cpp
+	<Windows.h>
+	<mmsystem.h>
+	<iostream>
+	<string>
+	<filesystem>
+	<vector>
+	<iomanip>
+
